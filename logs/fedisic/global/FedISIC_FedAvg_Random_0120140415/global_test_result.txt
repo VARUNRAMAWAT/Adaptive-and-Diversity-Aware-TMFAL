@@ -1,0 +1,1 @@
+Namespace(al_method='Random', al_round=1, annealing_step=10, base_lr=0.0005, batch_size=32, budget=10, cluster_size=10, cosine=0.85, dataset='FedISIC', deterministic=False, display_freq=25, fl_method='FedAvg', kl_weight=0.01, max_round=2, model_pool_size=20, model_pool_step=2, n_neighbor=5, query_model='global', query_ratio=0, s_step=1, seed=0)
